@@ -1,6 +1,6 @@
 ### 哈喽~
 
-本人在校大学生1枚，目前大三。会出于兴趣和需求进行个人repo开发，主要喜好使用golang进行编程，除此之外亦可使用Java，Python。
+本人在校大学生1枚，目前大三。会出于兴趣和需求进行个人repo开发，主要喜好使用golang进行编程，除此之外亦会使用Java，Python等高级语言。
 进行过一些简单的前端开发，主要为Vue3和React（以及Typescript和SCSS）。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectRICdll&show_icons=true&title_color=0f285a&text_color=061229&icon_color=588b04&border_color=ffffff40&locale=cn)
