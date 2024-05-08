@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectRICdll&show_icons=true&title_color=#061229&text_color=#f0f0f0&icon_color=#588b04&border_color=#ffffff40&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectRICdll&show_icons=true&title_color=061229&text_color=f0f0f0&icon_color=588b04&border_color=ffffff40&locale=cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectRICdll&layout=donut&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
