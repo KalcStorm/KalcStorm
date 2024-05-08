@@ -3,10 +3,7 @@
 本人在校大学生1枚，目前大三。会出于兴趣和需求进行个人repo开发，主要喜好使用golang进行编程，除此之外亦会使用Java，Python等高级语言。
 进行过一些简单的前端开发，主要为Vue3和React（以及Typescript和SCSS）。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectRICdll&show_icons=true&title_color=0f285a&text_color=061229&icon_color=588b04&border_color=ffffff40&locale=cn)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectRICdll&layout=donut&title_color=0f285a&text_color=061229&icon_color=588b04&border_color=ffffff40&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
 
 **做过一些奇奇怪怪的项目**：
 * [一个在线协作与Github Flow结合的系统](https://github.com/ElectRICdll/Campfire)（[以及前端实现](https://github.com/wryte123/camp-v3)）
