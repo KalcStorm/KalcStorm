@@ -15,7 +15,7 @@
 * [个人的博客网站实现（在建中）](https://github.com/ElectRICdll/elz-blog)
 * [心血来潮试图用golang写的RTS游戏内核（已搁置）](https://github.com/ElectRICdll/KONN)
 
-### 我的博客网站
-[点我访问](https://elzchannel.online)  
+### 我的博客网站[点我访问](https://elzchannel.online)  
+
 以[Hexo](https://github.com/hexojs/hexo)为基础搭建的网站，记录了本人大一时的水文。
 
