@@ -10,9 +10,9 @@
 * [一个基于botgo的腾讯机器人EchildBot](https://github.com/ElectRICdll/EchildBot)
 * [浪费三天写的对安卓模拟器的操作宏封装实现](https://github.com/ElectRICdll/MoonluxMarco)
 * [个人的博客网站实现（在建中）](https://github.com/ElectRICdll/elz-blog)
-* ～～[心血来潮试图用golang写的RTS游戏内核（已搁置）](https://github.com/ElectRICdll/KONN)～～
+* ~~[心血来潮试图用golang写的RTS游戏内核（已搁置）](https://github.com/ElectRICdll/KONN)~~
 
 ### 我的博客网站（[点我访问](https://elzchannel.online)）
 以[Hexo](https://github.com/hexojs/hexo)为基础搭建的网站，记录了本人大一时的水文。  
-～～天哪，除了HelloWorld什么都没有～～
+~~天哪，除了HelloWorld什么都没有~~
 
