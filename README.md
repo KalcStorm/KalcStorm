@@ -7,7 +7,7 @@
 
 **做过一些奇奇怪怪的项目**：
 * [一个在线协作与Github Flow结合的系统](https://github.com/ElectRICdll/Campfire)（[以及前端实现](https://github.com/wryte123/camp-v3)）
-* [一个基于botgo的腾讯机器人EchildBot](https://github.com/ElectRICdll/EchildBot)
+* [一个基于botgo的qq机器人EchildBot](https://github.com/ElectRICdll/EchildBot)
 * [浪费三天写的对安卓模拟器的操作宏封装实现](https://github.com/ElectRICdll/MoonluxMarco)
 * [个人的博客网站实现（在建中）](https://github.com/ElectRICdll/elz-blog)
 * ~~[心血来潮试图用golang写的RTS游戏内核（已搁置）](https://github.com/ElectRICdll/KONN)~~
